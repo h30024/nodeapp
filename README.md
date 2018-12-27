@@ -25,7 +25,7 @@ POST http://localhost:3000/api/auth
 }
 will return jwt as response
 
-use jwt to access
+use jwt in x-auth-token header to access 
 
 http://localhost:3000/api/genres
 
