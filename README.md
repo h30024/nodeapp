@@ -8,6 +8,8 @@ npm i
 
 export vidly_jwtPrivateKey=myPrivateKey
 
+nodemon index.js
+
 create user
 POST http://localhost:3000/api/users
 {
